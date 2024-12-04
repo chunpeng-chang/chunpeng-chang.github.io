@@ -219,6 +219,9 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM
+  hard_wrap: false
+  enable_coderay: false
+  parse_block_html: true
   syntax_highlighter_opts:
     css_class: "highlight"
     span:

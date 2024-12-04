@@ -19,3 +19,25 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Hello Hello
+
+<div id="timeline" class="timeline-brief">
+  <h1 class="md-heading text-center">
+    <i class="fa fa-tasks" aria-hidden="true"></i>
+    Timeline & Experiences
+  </h1>
+
+  <div class="timeline-body">
+    <div class="timeline-item">
+      <div class="timeline-date">
+        <img class="social-icon" src="../asset/img/1.jpg" />
+        2022 Aug. - present
+      </div>
+      <div class="timeline-title">
+        CS PhD student @ Cornell Tech, Cornell University
+      </div>
+      <div class="timeline-desc">
+        Machine Learning, Computer Vision, and Graphics
+      </div>
+    </div>
+  </div>
+</div>

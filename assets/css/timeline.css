@@ -1,0 +1,63 @@
+/* Timeline Container */
+#timeline {
+    margin-top: 2em;
+    padding: 2em;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Timeline Header */
+  #timeline .md-heading {
+    font-size: 1.8em;
+    margin-bottom: 1em;
+    text-align: center;
+    color: #333;
+  }
+  
+  /* Timeline Body */
+  #timeline .timeline-body {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5em;
+  }
+  
+  /* Timeline Items */
+  #timeline .timeline-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  /* Timeline Date Section */
+  #timeline .timeline-date {
+    flex: 0 0 150px;
+    font-size: 0.9em;
+    font-weight: bold;
+    color: #666;
+    text-align: right;
+    margin-right: 1em;
+  }
+  
+  /* Social Icon in Date */
+  #timeline .timeline-date img {
+    width: 24px;
+    height: 24px;
+    margin-right: 8px;
+    vertical-align: middle;
+  }
+  
+  /* Timeline Title */
+  #timeline .timeline-title {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  /* Timeline Description */
+  #timeline .timeline-desc {
+    font-size: 1em;
+    color: #555;
+    margin-top: 0.2em;
+  }
+  
