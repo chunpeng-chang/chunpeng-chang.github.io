@@ -1,5 +1,7 @@
-
-
-"CVPR":
+"CVPR 2024":
   url: https://cvpr.thecvf.com/
-  color: "#009f36"
+  color: "#8FBC8F"
+
+"WACV 2025":
+  url: https://wacv2025.thecvf.com/
+  color: "#6495ED"
