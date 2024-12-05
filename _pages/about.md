@@ -25,4 +25,4 @@ interactions between robots and humans. At DFKI, my work involves developing alg
 that allow robots to better understand and cooperate with humans in real-time, particularly in
 industrial settings.
 
-![Timeline of my journey](../assets/img/timeline.png)
+![Timeline of my journey](../assets/img/timeline.svg)
