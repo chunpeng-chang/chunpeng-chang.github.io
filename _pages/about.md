@@ -24,3 +24,5 @@ My research focuses on scene understanding and integrating text and visual data 
 interactions between robots and humans. At DFKI, my work involves developing algorithms
 that allow robots to better understand and cooperate with humans in real-time, particularly in
 industrial settings.
+
+![Timeline of my journey](../assets/img/timeline.png)
