@@ -5,3 +5,7 @@
 "WACV 2025":
   url: https://wacv2025.thecvf.com/
   color: "#6495ED"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#A52A2A"
