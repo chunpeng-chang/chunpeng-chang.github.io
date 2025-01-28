@@ -6,6 +6,10 @@
   url: https://wacv2025.thecvf.com/
   color: "#6495ED"
 
+"ICRA 2025":
+  url: https://2025.ieee-icra.org/
+  color: "#FF8C00"
+
 "arXiv":
   url: https://arxiv.org/
   color: "#A52A2A"
